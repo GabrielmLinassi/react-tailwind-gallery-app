@@ -11,6 +11,11 @@
 # production
 /build
 
+# editor
+.vscode/*
+.editorconfig
+*.code-workspace
+
 # misc
 .DS_Store
 .env.local
@@ -18,8 +23,6 @@
 .env.test.local
 .env.production.local
 .env
-.editorconfig
-*.code-workspace
 
 npm-debug.log*
 yarn-debug.log*
