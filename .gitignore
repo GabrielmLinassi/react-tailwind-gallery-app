@@ -12,9 +12,12 @@
 /build
 
 # editor
-.vscode/*
+/.vscode
 .editorconfig
 *.code-workspace
+
+# screenshots
+/screenshots
 
 # misc
 .DS_Store
